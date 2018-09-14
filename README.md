@@ -8,6 +8,8 @@
 
 ## 有趣
 - [一个有趣的web console | suspended](https://github.com/aqiongbei/console)
+- shell进度条
+- timeAcount
 
 ## 其他
 - [分享sublime text 3配置与key | done](https://github.com/aqiongbei/sublime_text_3_config_and_key)
