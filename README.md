@@ -4,7 +4,7 @@
 ## 有用
 - [删除qq空间说说、留言的脚本 | done](https://github.com/aqiongbei/qq_zone_delete)
 - [web版番茄钟 | suspended](https://github.com/aqiongbei/tomato_clock)
-- [一个电话攻击工具 | processing](https://github.com/aqiongbei/buy_pig_plan)
+- [一个电话攻击工具 | done](https://github.com/aqiongbei/buy_pig_plan)
 
 ## 有趣
 - [一个有趣的web console | suspended](https://github.com/aqiongbei/console)
