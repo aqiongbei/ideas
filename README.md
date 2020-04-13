@@ -5,7 +5,7 @@
 - [删除qq空间说说、留言的脚本 | done](https://github.com/aqiongbei/qq_zone_delete)
 - [web版番茄钟 | suspended](https://github.com/aqiongbei/tomato_clock)
 - [一个电话攻击工具 | done](https://github.com/aqiongbei/buy_pig_plan)
-- [自嗨导航 | rebuild](https://aqiongbei.coding.net/p/simple_nav)
+- [自嗨导航 | rebuild](https://github.com/aqiongbei/nav)
 ## 有趣
 - [一个有趣的web console | suspended](https://github.com/aqiongbei/console)
 - shell进度条
